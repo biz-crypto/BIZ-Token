@@ -1,6 +1,6 @@
 # BIZ-Token
 
-The BIZ Token contract is used for both BIZ and CRYPTO, two ERC-20 tokens deployed to the Ethereum blockchain in November 2019.
+The BIZ Token contract is used for both BIZ and CRYPTO, two ERC-20 tokens deployed to the Ethereum blockchain in November 2018.
 
 The token contracts are based on standard contracts from https://openzeppelin.org
 
