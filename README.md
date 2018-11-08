@@ -1,6 +1,28 @@
 # BIZ-Token
 
-The BIZ Token contract is used for both BIZ and CRYPTO, two ERC-20 tokens deployed to the Ethereum blockchain in November 2018.
+The BIZ Token contract is used for both BIZ and CRYPTO, two ERC-20 tokens deployed to the Ethereum blockchain on November 7th 2018.
+
+The token details are as follows :
+
+## BIZ
+
+Description       | Value
+----------------- | -------------
+Token Name        | BIZpaye Crypto
+Token Symbol      | BIZ
+Total Supply      | 1,000,000,000
+Decimal places    | 18
+Ethereum Address  | 0xc98d1ed49b8a9f52ea7843f149c1a75e1bdea326
+
+## CRYPTO
+
+Description       | Value
+----------------- | -------------
+Token Name        | BIZpaye Crypto
+Token Symbol      | CRYPTO
+Total Supply      | 1,000,000,000
+Decimal places    | 18
+thereum Address   | 0x7875bafc5d63fa035dea0809c2a57a382d772903
 
 The token contracts are based on standard contracts from https://openzeppelin.org
 
@@ -34,7 +56,7 @@ Send _value amount of tokens from address _from to address _to
 
 #### approve(address _spender, uint256 _value) - public returns (bool success)
 
-Allow _spender to withdraw from account, multiple times, up to the _value amount. 
+Allow _spender to withdraw from account, multiple times, up to the _value amount.
 
 If this function is called again it overwrites the current allowance with _value
 
