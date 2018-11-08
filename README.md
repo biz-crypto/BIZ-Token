@@ -22,7 +22,7 @@ Token Name        | BIZpaye Crypto
 Token Symbol      | CRYPTO
 Total Supply      | 1,000,000,000
 Decimal places    | 18
-thereum Address   | 0x7875bafc5d63fa035dea0809c2a57a382d772903
+Ethereum Address  | 0x7875bafc5d63fa035dea0809c2a57a382d772903
 
 The token contracts are based on standard contracts from https://openzeppelin.org
 
